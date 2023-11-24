@@ -10,9 +10,6 @@ public class TranslatorAdapter implements ITranslationService {
     }
 
 
-
-
-    
     @Override
     public String translateText(String text, String targetLanguage) {
        // Adaptação: Chama o método antigo com o idioma de origem fixo
