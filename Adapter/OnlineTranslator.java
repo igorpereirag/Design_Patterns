@@ -1,5 +1,6 @@
 package Adapter;
 
+// Classe que implementa a interface antiga
 public class OnlineTranslator implements ITranslatorService {
 
     @Override
