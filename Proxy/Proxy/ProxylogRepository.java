@@ -1,3 +1,5 @@
+package Proxy;
+
 class ProxyLogRepository extends ProdutoRepository {
     
     @Override

@@ -1,3 +1,5 @@
+package Proxy;
+
 public class Main {
 
     // RealSubject / Implementação
