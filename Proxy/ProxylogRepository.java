@@ -1,8 +1,8 @@
 package Proxy;
 
-class ProxyLogRepository extends ProdutoRepository {
-    
-    @Override
+public class ProxyLogRepository extends ProdutoRepository {
+
+     @Override
     public Object find(long id) {
         System.out.println("Buscando produto com id " + id);
         Object find = super.find(id);
@@ -10,4 +10,5 @@ class ProxyLogRepository extends ProdutoRepository {
         return find;
     }
     
+
 }
