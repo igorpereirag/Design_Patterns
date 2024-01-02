@@ -99,10 +99,4 @@ Explore as pastas para cada categoria de padrões de projeto e, dentro delas, en
 
 ## Contribuição
 
-Sua experiência é valiosa! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests. Consulte as diretrizes de contribuição no arquivo CONTRIBUICAO.md para mais detalhes.
-
-## Licença
-
-Este repositório é distribuído sob a licença MIT. Consulte o arquivo LICENSE.md para obter detalhes.
-
-Esperamos que este guia aprofundado enriqueça sua compreensão e aplicação dos padrões de projeto em seus projetos!
+Sua experiência é valiosa! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
