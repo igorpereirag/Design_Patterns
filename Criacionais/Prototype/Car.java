@@ -1,4 +1,4 @@
-package Prototype;
+package Criacionais.Prototype;
 
 public class Car implements Prototype {
 

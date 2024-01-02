@@ -1,4 +1,4 @@
-package Factory;
+package Criacionais.Factory;
 
 class FactoryDeVeiculos {
     Veiculo criarVeiculo(String tipo) {
