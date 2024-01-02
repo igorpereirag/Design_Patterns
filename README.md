@@ -99,4 +99,4 @@ Explore as pastas para cada categoria de padrões de projeto e, dentro delas, en
 
 ## Contribuição
 
-Sua experiência é valiosa! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
+Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
