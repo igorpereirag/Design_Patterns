@@ -78,9 +78,7 @@ Imagine-os como receitas refinadas para resolver problemas específicos de desig
 ### Padrões de Arquitetura: Construindo Grandes Sistemas
 
 1. **MVC (Model-View-Controller):**
-   - **Objetivo:** Separa dados
-
-, interface do usuário e lógica de controle.
+   - **Objetivo:** Separa dados, interface do usuário e lógica de controle.
    - **Quando usar:** Use quando deseja uma separação clara entre a representação interna dos dados, a interação do usuário e a lógica de controle. Ideal para sistemas interativos, como aplicativos web.
 
 2. **MVVM (Model-View-ViewModel):**
