@@ -1,7 +1,7 @@
 # Guia Detalhado de Padrões de Projeto
 
 
-Este repositório é seu guia completo para entender e implementar padrões de projeto, Padrões de projeto oferecem soluções testadas e comprovadas para desafios recorrentes, proporcionando estruturas desacopladas e flexíveis para criar sistemas de alta qualidade.
+Este repositório é um guia básico e sucinto para entender e implementar padrões de projeto, Padrões de projeto oferecem soluções testadas e comprovadas para desafios recorrentes, proporcionando estruturas desacopladas e flexíveis para criar sistemas de alta qualidade.
 
 ## O que são Padrões de Projeto?
 
