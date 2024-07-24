@@ -9,7 +9,7 @@ Imagine-os como receitas refinadas para resolver problemas específicos de desig
 
 ## Categorias de Padrões de Projeto
 
-### Padrões de Criação: Construindo a Base
+### Padrões de Criação:
 
 1. **Singleton:**
    - **Objetivo:** Garante uma única instância de uma classe.
@@ -31,7 +31,7 @@ Imagine-os como receitas refinadas para resolver problemas específicos de desig
    - **Objetivo:** Cria novos objetos clonando objetos existentes.
    - **Quando usar:** Use quando a criação de uma classe hierárquica de fábricas que sabem como clonar suas próprias classes seria impraticável ou complexa. Útil quando os objetos a serem copiados são desconhecidos até o tempo de execução.
 
-### Padrões Estruturais: Construindo a Arquitetura
+### Padrões Estruturais:
 
 1. **Adapter:**
    - **Objetivo:** Permite que interfaces incompatíveis trabalhem juntas.
@@ -53,7 +53,7 @@ Imagine-os como receitas refinadas para resolver problemas específicos de desig
    - **Objetivo:** Fornece um substituto ou marcador de posição para modificar um comportamento e/ou controlar o acesso a um objeto.
    - **Quando usar:** Use quando precisa controlar o acesso a um objeto, adiando ou evitando a sua criação. Ótimo para implementar lazy loading, controle de acesso ou monitoramento.
 
-### Padrões Comportamentais: Construindo Interações
+### Padrões Comportamentais: 
 
 1. **Observer:**
    - **Objetivo:** Estabelece uma dependência um-para-muitos entre objetos.
@@ -75,23 +75,6 @@ Imagine-os como receitas refinadas para resolver problemas específicos de desig
    - **Objetivo:** Passa uma solicitação ao longo de uma cadeia de manipuladores.
    - **Quando usar:** Use quando deseja desacoplar remetentes de seus destinatários, permitindo que mais de um objeto possa manipular uma solicitação. Ótimo para construir pipelines de processamento de dados ou eventos.
 
-### Padrões de Arquitetura: Construindo Grandes Sistemas
-
-1. **MVC (Model-View-Controller):**
-   - **Objetivo:** Separa dados, interface do usuário e lógica de controle.
-   - **Quando usar:** Use quando deseja uma separação clara entre a representação interna dos dados, a interação do usuário e a lógica de controle. Ideal para sistemas interativos, como aplicativos web.
-
-2. **MVVM (Model-View-ViewModel):**
-   - **Objetivo:** Semelhante ao MVC, com ênfase na ligação de dados bidirecional.
-   - **Quando usar:** Use em interfaces de usuário ricas e complexas, onde há uma ênfase na reatividade e ligação de dados bidirecional.
-
-3. **Layered Architecture:**
-   - **Objetivo:** Organiza o código em camadas para promover modularidade.
-   - **Quando usar:** Use quando deseja manter uma separação clara de responsabilidades em sistemas complexos. Ótimo para escalabilidade e manutenção em sistemas corporativos.
-
-4. **Microservices:**
-   - **Objetivo:** Divide um aplicativo em serviços independentes e autônomos.
-   - **Quando usar:** Use quando deseja escalar partes específicas de um aplicativo independentemente, facilitando a manutenção e a evolução. Ótimo para sistemas distribuídos e escaláveis.
 
 ## Como Usar Este Repositório
 
